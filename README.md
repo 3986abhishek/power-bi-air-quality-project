@@ -1,4 +1,4 @@
-# power-bi-air-quality-project
+
 # India Air Quality Analysis
 
 This repository contains an exploratory data analysis (EDA) of India's air quality dataset (`city_day.xlsx`).  
